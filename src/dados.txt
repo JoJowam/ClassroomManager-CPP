@@ -1,0 +1,67 @@
+classroom
+Sala 1
+10
+classroom
+Sala 2
+5
+classroom
+Sala 3
+5
+classroom
+Sala 4
+3
+course
+MAT101
+Matematica
+11000
+course
+ENG201
+Ingles
+11000
+course
+HIS301
+Historia
+00110
+course
+SCI401
+Ciencias
+00110
+course
+ART501
+Artes
+01001
+course
+MUS601
+Musica
+00110
+course
+PED701
+Educacao Fisica
+00011
+course
+COM801
+Comunicacao
+01100
+professor
+Josias Martins Ferreira
+156.345.321-21
+31 986743212
+1
+PED701
+student
+Matheus Pereira Saltos
+146.432.322-54
+31 993234454
+20.1.1111
+2
+PED701
+COM801
+student
+Maria Cavalcant Pereira
+123.136.872-21
+31 993452134
+20.1.2222
+2
+PED701
+COM801
+
